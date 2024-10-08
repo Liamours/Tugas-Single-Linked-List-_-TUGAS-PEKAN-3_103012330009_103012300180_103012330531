@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1728359968 source:c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[1] tugas kelompok\tugas_besar_1\project.cpp
+	"project.h"
+	<iostream>
+
+1728368483 c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[1] tugas kelompok\tugas_besar_1\project.h
+	<iostream>
+	<string>
+
+1728387599 source:c:\users\lulay\desktop\kuliah\semester 3\struktur data\tugas\[1] tugas kelompok\tugas_besar_1\main.cpp
+	<iostream>
+	"project.h"
+
