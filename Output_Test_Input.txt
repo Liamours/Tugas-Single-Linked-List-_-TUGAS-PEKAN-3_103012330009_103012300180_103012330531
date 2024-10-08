@@ -1,0 +1,123 @@
+
+=========================
+INI OUTPUT tanpa input
+=========================
+
+
+=========================
+
+Input kegiatan: Logika_Matematika
+Input hari: Selasa
+Input jam mulai: 10
+Input menit mulai: 30
+Input jam akhir: 12
+Input menit akhir: 30
+
+=========================
+INI OUTPUT setelah input P1
+=========================
+
+Kegiatan: Logika_Matematika, Hari: Selasa, Waktu Mulai: 1030, Waktu Selesai: 1230
+
+=========================
+
+Input kegiatan: Kalkulus
+Input hari: Senin
+Input jam mulai: 12
+Input menit mulai: 30
+Input jam akhir: 15
+Input menit akhir: 30
+
+=========================
+INI OUTPUT setelah input P2
+=========================
+
+Kegiatan: Logika_Matematika, Hari: Selasa, Waktu Mulai: 1030, Waktu Selesai: 1230
+Kegiatan: Kalkulus, Hari: Senin, Waktu Mulai: 1230, Waktu Selesai: 1530
+
+=========================
+
+Input kegiatan: Pancasila
+Input hari: Rabu
+Input jam mulai: 11
+Input menit mulai: 30
+Input jam akhir: 15
+Input menit akhir: 30
+
+=========================
+INI OUTPUT setelah input P3
+=========================
+
+Kegiatan: Pancasila, Hari: Rabu, Waktu Mulai: 1130, Waktu Selesai: 1530
+Kegiatan: Logika_Matematika, Hari: Selasa, Waktu Mulai: 1030, Waktu Selesai: 1230
+Kegiatan: Kalkulus, Hari: Senin, Waktu Mulai: 1230, Waktu Selesai: 1530
+
+=========================
+
+Input kegiatan: Matematika_Distrik
+Input hari: Kamis
+Input jam mulai: 8
+Input menit mulai: 30
+Input jam akhir: 11
+Input menit akhir: 30
+
+=========================
+INI OUTPUT setelah input P4
+=========================
+
+Kegiatan: Pancasila, Hari: Rabu, Waktu Mulai: 1130, Waktu Selesai: 1530
+Kegiatan: Logika_Matematika, Hari: Selasa, Waktu Mulai: 1030, Waktu Selesai: 1230
+Kegiatan: Kalkulus, Hari: Senin, Waktu Mulai: 1230, Waktu Selesai: 1530
+Kegiatan: Matematika_Distrik, Hari: Kamis, Waktu Mulai: 830, Waktu Selesai: 1130
+
+=========================
+Input kegiatan: Struktur_Data
+Input hari: Jumat
+Input jam mulai: 8
+Input menit mulai: 30
+Input jam akhir: 12
+Input menit akhir: 30
+
+=========================
+INI OUTPUT setelah input P5
+=========================
+
+Kegiatan: Pancasila, Hari: Rabu, Waktu Mulai: 1130, Waktu Selesai: 1530
+Kegiatan: Logika_Matematika, Hari: Selasa, Waktu Mulai: 1030, Waktu Selesai: 1230
+Kegiatan: Kalkulus, Hari: Senin, Waktu Mulai: 1230, Waktu Selesai: 1530
+Kegiatan: Matematika_Distrik, Hari: Kamis, Waktu Mulai: 830, Waktu Selesai: 1130
+Kegiatan: Struktur_Data, Hari: Jumat, Waktu Mulai: 830, Waktu Selesai: 1230
+
+=========================
+
+Input kegiatan: Pemrograman_Berorientasi_Objek
+Input hari: Sabtu
+Input jam mulai: 10
+Input menit mulai: 30
+Input jam akhir: 12
+Input menit akhir: 30
+
+=========================
+INI OUTPUT setelah input P6
+=========================
+
+Kegiatan: Pancasila, Hari: Rabu, Waktu Mulai: 1130, Waktu Selesai: 1530
+Kegiatan: Logika_Matematika, Hari: Selasa, Waktu Mulai: 1030, Waktu Selesai: 1230
+Kegiatan: Kalkulus, Hari: Senin, Waktu Mulai: 1230, Waktu Selesai: 1530
+Kegiatan: Matematika_Distrik, Hari: Kamis, Waktu Mulai: 830, Waktu Selesai: 1130
+Kegiatan: Struktur_Data, Hari: Jumat, Waktu Mulai: 830, Waktu Selesai: 1230
+Kegiatan: Pemrograman_Berorientasi_Objek, Hari: Sabtu, Waktu Mulai: 1030, Waktu Selesai: 1230
+
+=========================
+
+
+=========================
+INI OUTPUT setelah delete dan sort
+=========================
+
+Kegiatan: Kalkulus, Hari: Senin, Waktu Mulai: 1230, Waktu Selesai: 1530
+Kegiatan: Matematika_Distrik, Hari: Kamis, Waktu Mulai: 830, Waktu Selesai: 1130
+Kegiatan: Struktur_Data, Hari: Jumat, Waktu Mulai: 830, Waktu Selesai: 1230
+Kegiatan: Pemrograman_Berorientasi_Objek, Hari: Sabtu, Waktu Mulai: 1030, Waktu Selesai: 1230
+
+=========================
